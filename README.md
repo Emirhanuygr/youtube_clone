@@ -1,6 +1,6 @@
 # mp3_player
 
-A new Flutter application.
+Youtube Clone
 
 ## Getting Started
 
