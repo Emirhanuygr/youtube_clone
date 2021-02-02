@@ -18,7 +18,8 @@ You've to required key in search.dart => Api Key
 <hr>
 <img src="https://user-images.githubusercontent.com/63923830/106661513-56d02e00-65b2-11eb-9c4c-6039eb472cc7.jpeg" width="280" height="550">
 <hr>
-<img src="https://user-images.githubusercontent.com/63923830/106663840-54bb9e80-65b5-11eb-9fd6-e3c83083ac21.jpeg" width="280" height="550>
-
+<img src="https://user-images.githubusercontent.com/63923830/106663840-54bb9e80-65b5-11eb-9fd6-e3c83083ac21.jpeg" width="280" height="550">
+<hr>
+<img src="https://user-images.githubusercontent.com/63923830/106664192-c562bb00-65b5-11eb-85c8-69af232a29a8.jpeg" width="280" height="550">                                                                                                                              
 
 
